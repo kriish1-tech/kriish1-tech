@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Kriish
 
-<!--
-**kriish1-tech/kriish1-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a student learning **Python and AI**.
 
-Here are some ideas to get you started:
+🧠 I believe the best way to learn is to **understand, practice, apply, build, and share**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+
+- 🐍 Python
+- 🔧 Git & GitHub
+- 🤖 AI
+
+## 🚀 What You'll Find Here
+
+I share what I learn, the knowledge I gain, and the things I build.
